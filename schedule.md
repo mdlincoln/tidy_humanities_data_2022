@@ -11,26 +11,24 @@ weight: 0
 ## Before the class
 
 1. Please sign on to the Discord server for the course (invitations are in your email.)
-2. Please sign up for a free account on [Miro](https://miro.com), the virutal whiteboard system that we will be using extensively during the course. (Invite links to our Miro space are in your email.)
+2. Please sign up for a free account on [Miro](https://miro.com), the virtual whiteboard system that we will be using extensively during the course. (Invite links to our Miro space are in your email.)
 3. Please [follow the instructions to install OpenRefine](https://docs.openrefine.org/manual/installing) on your own computer.
 4. We have a relatively short reading for each day of the course - as with all classes, it'll be most helpful for you to do the reading prior to our discussion!
-5. If you are interested, sign up for one of our limited [1-on-1 data consultation slot][consults].
+5. If you are interested, sign up for one of the limited [1-on-1 data consultation slot][consults].
 
-[consults]: {{ site.baseurl }}{% link office_hours.md %}
+[consults]: https://docs.google.com/document/d/11WDDZrcIRx7XiGb38xVobW5JQwL57G8BRVrKcROi1KY/edit
 
 ## Technology
 
-I've tried hard to make sure that this class uses the least amount of tech possible. Almost all of our work will happen in apps that are in your internet browser; only OpenRefine needs to be installed beforehand.
+You'll need to bring your own computer - Windows, Mac, Linux are all fine.
 
-However, Palladio and OpenRefine are not designed to work on a tablet. I strongly recommend that you use a desktop or laptop computer to get the most useful experience with those exercises. You may also find it much easier to use them, and the Miro whiteboard app, if you use a computer mouse (but this isn't required.)
+I've tried hard to make sure that this class uses the least amount of tech possible. Almost all of our work will happen in apps that run in your internet browser; only OpenRefine needs to be installed beforehand.
 
-## On-Zoom vs. Off-Zoom participation
-
-I know it's been a year+ of far too much Zoom, and this course will only be adding more. However, I'm trying to keep many of our practical exercises flexible enough that you can either work through them with a breakout group over Zoom, or do them solo at your own pace. I've marked those sections as `(group work or solo)`. The other sections where I walk through data tidying concepts or where we discuss the readings would best be attended live on Zoom. However, we will use Miro to keep a list of notes and reading reactions collectively, so do not worry if you aren't able to participate live in a particular discussion - you will always be able to look at our collective notes and add your own independently.
+However, Palladio and OpenRefine are not designed to work on a tablet. I strongly recommend that you use a laptop computer to get the most useful experience with those exercises. You may also find it much easier to use them, and the Miro whiteboard app, if you use a computer mouse (but this isn't required.)
 
 ## What else do you want to talk about?
 
-We've left flex time on Thursday to talk through issues or questions that aren't covered in the other modules. At any time Monday through Wednesday, [use the Open Questions Board](https://miro.com/app/board/o9J_lCzSRN8=/) to drop notes about concepts or questions you'd like to learn more about, and then based on community voting we'll hold some informal discussions or tutorials on Thursday.
+I've left flex time on Thursday to talk through issues or questions that aren't covered in the other modules. At any time Monday through Wednesday, [use the Open Questions Board](https://miro.com/app/board/o9J_lCzSRN8=/) to drop notes about concepts or questions you'd like to learn more about, and then based on community voting we'll hold some informal discussions or tutorials on Thursday.
 
 ## Software Suggestions
 
@@ -45,15 +43,13 @@ Each day, the Dream Lab leaders will be hosting short "coffee breaks" on the **W
 | 8am-9am                  |
 | 3:00pm-3:30pm            |
 
-There are also scheduled "happy hour" virtual gatherings on Tuesday and Wednesday evenings, which I've marked on the schedule below.
-
 These virtual gatherings are a chance to meet participants in the other classes. Think of these like the coffee breaks or receptions at a conference: on some days I am excited and energized to participate, and on others I decide that I need some personal quiet time instead. You should feel the freedom to do either!
 
 ## [ALL MIRO BOARDS LINK](https://miro.com/welcome/a2h1ZnF3QWFVVVpIc3FkS1NhR1VhU3Y1WTV2RldnOHBiUWg1ajVvRURuMnRhdnNoaEhMNTBuSGdQNzVJSEVHR3wzMDc0NDU3MzUxMzY0Mzc3Mjgw)
 
 *All times EDT (UTC-4)*
 
-## Monday, June 14
+## Monday, June 13
 
 ### Reading
 
@@ -78,7 +74,7 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
 
-## Tuesday, June 15
+## Tuesday, June 14
 
 ### Reading
 
@@ -101,7 +97,7 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 
 
-## Wednesday, June 16
+## Wednesday, June 15
 
 ### Reading
 
@@ -126,21 +122,21 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 | 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
 | 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                      |
 
-## Thursday, June 17
+## Thursday, June 16
 
 ### Reading
 
-Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Computational Modeling of the Phenomenal World.” In The Routledge Companion to Digital Humanities and Art History, edited by Kathryn Brown, 358–73. Routledge Art History and Visual Studies Companions. New York: Routledge, 2020. DOI: [10.4324/9780429505188-31](https://doi.org/10.4324/9780429505188-31).
+Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Computational Modeling of the Phenomenal World.” In The Routledge Companion to Digital Humanities and Art History, edited by Kathryn Brown, 358–73. Routledge Art History and Visual Studies Companions. New York: Routledge, 2020. DOI: [10.4324/9780429505188-31](https://doi.org/10.4324/9780429505188-31). ([PDF](https://www.dropbox.com/s/skm90em5j4ejlrj/Langmead%20and%20Newbury%20-%202020%20-%20Pointers%20and%20Proxies%20Thoughts%20on%20the%20Computationa.pdf?dl=0))
 
 ### Schedule
 
-| Time                | Activity                                                                           |
-| ------------------- | ---------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                             |
-| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/)     |
-| **11:00am-11:15am** | **Break**                                                                          |
-| 11:15am-12:00pm     | [Research talk by S.E. Hackney]({{ site.baseurl }}{% link units/hackney_talk.md%}) |
-| **12:00pm-1:00pm**  | **Break**                                                                          |
-| 1:00pm-2:30pm       | [Data documentation](https://miro.com/app/board/o9J_l-uM204=/)                     |
-| **2:30pm-3:30pm**   | **Break**                                                                          |
-| 3:30-5:00pm         | Dream Lab Show and Tell and Closing (Zoom link sent by email and on Discord)       |
+| Time                | Activity                                                                       |
+| ------------------- | ------------------------------------------------------------------------------ |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                         |
+| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/) |
+| **11:00am-11:15am** | **Break**                                                                      |
+| 11:15am-12:00pm     |                                                                                |
+| **12:00pm-1:00pm**  | **Break**                                                                      |
+| 1:00pm-2:30pm       | [Data documentation](https://miro.com/app/board/o9J_l-uM204=/)                 |
+| **2:30pm-3:30pm**   | **Break**                                                                      |
+| 3:30-5:00pm         | Dream Lab Show and Tell and Closing (Zoom link sent by email and on Discord)   |

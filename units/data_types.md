@@ -1,7 +1,7 @@
 ---
 title: Data types
 sequence: 2
-date: 2021-06-15
+date: 2022-06-15
 description: |
   Strings, categories, numbers, units
 ---
@@ -75,7 +75,7 @@ Think very carefully before you endeavor to encode uncertainty into your data. L
 ## Dates
 
 - [LEARN AND USE **EDTF** WHENEVER POSSIBLE](https://miro.com/app/board/o9J_l_LUDX4=/) It handles many needs in a way that computers can read:
-  - dates with varying precision (`1970`, `1991-01`, `2021-04-06`)
+  - dates with varying precision (`1970`, `1991-01`, `2022-04-06`)
   - dates that are approximate (`1970~`) or uncertain (`1970?`)
   - date ranges (`1980/2010`)
   - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software, allowing you to create an `earliest_date` and `latest_date` column for most EDTF strings.

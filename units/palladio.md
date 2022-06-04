@@ -1,6 +1,6 @@
 ---
 title: Palladio
-date: 2021-06-14
+date: 2022-06-14
 description: |
   Learning to use the data exploration and visualization tool Palladio to learn the eccentricities of a data set.
 ---

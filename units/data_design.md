@@ -1,6 +1,6 @@
 ---
 title: Relational Data Design Exercise
-date: 2021-06-15
+date: 2022-06-15
 description: |
   Learning how to design relational data with interlinked tables
 ---

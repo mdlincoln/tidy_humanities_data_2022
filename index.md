@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Tidy Data for Humanists - 2021
+title: Tidy Data for Humanists - 2022
 ---
 
-### A University of Pennsylvania Dream Lab course originally offered online June 14-17 2021.
+### A University of Pennsylvania Dream Lab course originally offered online June 14-17 2022.
 
 **Instructor: [Matthew Lincoln](https://matthewlincoln.net)**
-
-**Teaching Assistant: [Shack Hackney](https://shackismy.name)**
 
 ![Marie Kondo Cradling an Excel Spreadsheet](https://matthewlincoln.net/assets/images-display/kondo_excel.jpg)
 

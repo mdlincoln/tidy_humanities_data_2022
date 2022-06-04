@@ -1,6 +1,6 @@
 ---
 title: OpenRefine Exercise
-date: 2021-06-16
+date: 2022-06-16
 description: |
   Working through the Programming Historian's OpenRefine tutorial
 ---

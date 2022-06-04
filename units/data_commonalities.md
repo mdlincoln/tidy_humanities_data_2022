@@ -1,7 +1,7 @@
 ---
 title: Data Commonalities Icebreaker
 sequence: 2
-date: 2021-06-14
+date: 2022-06-14
 description: |
   Getting to know your data (and each other)
 ---
