@@ -14,7 +14,6 @@ weight: 0
 2. Please sign up for a free account on [Miro](https://miro.com), the virtual whiteboard system that we will be using extensively during the course. (Invite links to our Miro space are in your email.)
 3. Please [follow the instructions to install OpenRefine](https://docs.openrefine.org/manual/installing) on your own computer.
 4. We have a relatively short reading for each day of the course - as with all classes, it'll be most helpful for you to do the reading prior to our discussion!
-5. If you are interested, sign up for one of the limited [1-on-1 data consultation slot][consults].
 
 [consults]: https://docs.google.com/document/d/11WDDZrcIRx7XiGb38xVobW5JQwL57G8BRVrKcROi1KY/edit
 
@@ -32,22 +31,11 @@ I've left flex time on Thursday to talk through issues or questions that aren't 
 
 ## Software Suggestions
 
-[Miro board to collect software suggestions for data tidying, management, and visualization](https://miro.com/app/board/o9J_l_QwCrU=/)
+[Miro board to collect software suggestions for data tidying, management, and visualization](https://miro.com/app/board/uXjVOvBWDE4=/?share_link_id=252877421373)
 
-## OPTIONAL Dream Lab coffee breaks
 
-Each day, the Dream Lab leaders will be hosting short "coffee breaks" on the **Water Cooler** voice channel on Discord (sometimes these overlap with our course breaks, other times not):
+## [ALL MIRO BOARDS LINK](https://miro.com/welcome/a2h1ZnF3QWFVVVpIc3FkS1NhR1VhU3Y1WTV2RldnOHBiUWg1ajVvRURuMnRhdnNoaEhMNTBuSGdQNzVJSEVHR3wzMDc0NDU3MzUxMzY0Mzc3Mjgw?share_link_id=967785455229)
 
-| Daily Coffee Break Times |
-| ------------------------ |
-| 8am-9am                  |
-| 3:00pm-3:30pm            |
-
-These virtual gatherings are a chance to meet participants in the other classes. Think of these like the coffee breaks or receptions at a conference: on some days I am excited and energized to participate, and on others I decide that I need some personal quiet time instead. You should feel the freedom to do either!
-
-## [ALL MIRO BOARDS LINK](https://miro.com/welcome/a2h1ZnF3QWFVVVpIc3FkS1NhR1VhU3Y1WTV2RldnOHBiUWg1ajVvRURuMnRhdnNoaEhMNTBuSGdQNzVJSEVHR3wzMDc0NDU3MzUxMzY0Mzc3Mjgw)
-
-*All times EDT (UTC-4)*
 
 ## Monday, June 13
 
@@ -57,19 +45,17 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                                                                                                                                                                                                                 |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome (Zoom link sent by email and on Discord)                                                                                                                                                                               |
-| **10:00am-10:15am** | **Break**                                                                                                                                                                                                                                |
-| 10:15am-10:45am     | Tidy Data Orientation                                                                                                                                                                                                                    |
-| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %})                                                                                                                                                |
-| **12:00pm-1:00pm**  | **Break**                                                                                                                                                                                                                                |
-| 1:00pm-1:20pm       | Palladio introduction                                                                                                                                                                                                                    |
-| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})                                                                                                                                                 |
-| **2:40pm-3:00pm**   | **Break**                                                                                                                                                                                                                                |
-| 3:00pm-4:00pm       | [Rawson & Muñoz 2019 discussion](https://miro.com/app/board/o9J_lCzO_X0=/)                                                                                                                                                               |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                                                                                                                                   |
-| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://pricelab.sas.upenn.edu/events/dream-lab-keynote-marisa-parham) (Zoom link sent by email and on Discord - **You do NOT need to sign up via EventBrite to attend if you're already a student**) |
+| Time                | Activity                                                                                                        |
+| ------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome                                                                                               |
+| 10:00am-10:45am     | Tidy Data Orientation & Introductory Exercise                                                                   |
+| **10:45am-11:00am** | **Break**                                                                                                       |
+| 11:00am-12:00pm     | Data types (text, numbers, dates, categories, missing & uncertain info)                                         |
+| **12:00pm-1:30pm**  | **Lunch**                                                                                                       |
+| 1:30pm-3:00pm       | Palladio                                                                                                        |
+| **3:00pm-3:30pm**   | **Break**                                                                                                       |
+| 3:30pm-4:30pm       | Rawson & Muñoz 2019                                                                                             |
+| 5:15pm-6:45pm       | Keynote: "Digital Humanities, 1887/2087" Whitney Trettien (Van Pelt Library, 6th Floor, Class of 1978 Pavilion) |
 
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
@@ -82,18 +68,15 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 ### Schedule
 
-| Time                | Activity                                                                                                                      |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                                                        |
-| 10:00am-11:00am     | [Data types (text, numbers, dates, categories, missing & uncertain info)]({{ site.baseurl }}{% link units/data_types.md %})   |
-| **11:00am-11:15am** | **Break**                                                                                                                     |
-| 11:15am-12:00pm     | [Relational Data Design Intro (reviewing Merry 2015)](https://miro.com/app/board/o9J_lBYeuh4=/)                               |
-| **12:00pm-1:00pm**  | **Break**                                                                                                                     |
-| 1:00pm-2:30pm       | [Data design breakout group exercise (group work \[recommended\] or solo)]({{ site.baseurl }}{% link units/data_design.md %}) |
-| **2:30-3:00**       | **Break**                                                                                                                     |
-| 3:00pm-4:00pm       | Data design share-out & comparison                                                                                            |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                        |
-| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                                                       |
+| Time                                     | Activity                                                                                            |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 9:30am-10:45am                           | [Relational Data Design Intro and discussing Merry 2015)](https://miro.com/app/board/o9J_lBYeuh4=/) |
+| **10:45am-10:00am**                      | **Break**                                                                                           |
+| 11:00-12:00pm       Data design exercise |                                                                                                     |
+| **12:00pm-1:30pm**                       | **Lunch**                                                                                           |
+| 1:30pm-3:00pm                            | Intro to SQL  (selecting; ordering; filtering; counting)                                            |  |
+| **3:00-3:30**                            | **Break**                                                                                           |
+| 3:30pm-5:00pm                            | More SQL        (creating schemas; joins)                                                           |
 
 
 
@@ -107,20 +90,16 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 ### Schedule
 
-| Time                | Activity                                                                                     |
-| ------------------- | -------------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
-| 10:00-11:00am       | [Posner 2015 discussion](https://miro.com/app/board/o9J_lCzRiLs=/)                           |
-| **11:00am-11:15am** | **Break**                                                                                    |
-| 11:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %})                 |
-| **12:00pm-1:00pm**  | **Break**                                                                                    |
-| 1:00pm-1:20pm       | Intro to Open Refine                                                                         |
-| 1:20pm-2:40pm       | [OpenRefine Exercise (group work or solo)]({{ site.baseurl }}{% link units/openrefine.md %}) |
-| **2:40pm-3:00pm**   | **Break**                                                                                    |
-| 3:00pm-3:30pm       | OpenRefine reactions and tips                                                                |
-| 3:30pm-4:00pm       | Thursday open session planning                                                               |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
-| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                      |
+| Time                | Activity                                                           |
+| ------------------- | ------------------------------------------------------------------ |
+| 9:00-10:00am        | [Posner 2015 discussion](https://miro.com/app/board/o9J_lCzRiLs=/) |
+| **10:00am-10:15am** | **Break**                                                          |
+| 10:15am-12:00pm     | Identifying data messes                                            |
+| **12:00pm-1:30pm**  | **Lunch**                                                          |
+| 1:30pm-3:00pm       | OpenRefine                                                         |
+| **3:00pm-3:30pm**   | **Break**                                                          |
+| 3:30pm-3:30pm       | OpenRefine continued                                               |
+
 
 ## Thursday, June 16
 
@@ -132,11 +111,9 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 
 | Time                | Activity                                                                       |
 | ------------------- | ------------------------------------------------------------------------------ |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                         |
-| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/) |
-| **11:00am-11:15am** | **Break**                                                                      |
-| 11:15am-12:00pm     |                                                                                |
-| **12:00pm-1:00pm**  | **Break**                                                                      |
-| 1:00pm-2:30pm       | [Data documentation](https://miro.com/app/board/o9J_l-uM204=/)                 |
-| **2:30pm-3:30pm**   | **Break**                                                                      |
-| 3:30-5:00pm         | Dream Lab Show and Tell and Closing (Zoom link sent by email and on Discord)   |
+| 9:30am-10:15am      | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/) |
+| **10:15am-10:30am** | **Break**                                                                      |
+| 10:30am-12:00pm     | [Data documentation & preservation](https://miro.com/app/board/o9J_l-uM204=/)  |
+| **12:00pm-1:30pm**  | **Lunch**                                                                      |
+| 1:30pm-3:00pm       | Open session                                                                   |
+| 3:15-5:00pm         | Dream Lab Wrap-up Session                                                      |
