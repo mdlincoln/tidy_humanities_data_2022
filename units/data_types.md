@@ -1,7 +1,7 @@
 ---
 title: Data types
 sequence: 2
-date: 2022-06-15
+date: 2022-06-13
 description: |
   Strings, categories, numbers, units
 ---

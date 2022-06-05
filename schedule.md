@@ -45,17 +45,17 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                                                                                        |
-| ------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome                                                                                               |
-| 10:00am-10:45am     | Tidy Data Orientation & Introductory Exercise                                                                   |
-| **10:45am-11:00am** | **Break**                                                                                                       |
-| 11:00am-12:00pm     | Data types (text, numbers, dates, categories, missing & uncertain info)                                         |
-| **12:00pm-1:30pm**  | **Lunch**                                                                                                       |
-| 1:30pm-3:00pm       | Palladio                                                                                                        |
-| **3:00pm-3:30pm**   | **Break**                                                                                                       |
-| 3:30pm-4:30pm       | Rawson & Muñoz 2019                                                                                             |
-| 5:15pm-6:45pm       | Keynote: "Digital Humanities, 1887/2087" Whitney Trettien (Van Pelt Library, 6th Floor, Class of 1978 Pavilion) |
+| Time                | Activity                                                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome                                                                                                           |
+| 10:00am-10:45am     | Tidy Data Orientation & Introductory Exercise                                                                               |
+| **10:45am-11:00am** | **Break**                                                                                                                   |
+| 11:00am-12:00pm     | [Data types]({{ site.baseurl }}{% link units/data_types.md %}) (text, numbers, dates, categories, missing & uncertain info) |
+| **12:00pm-1:30pm**  | **Lunch**                                                                                                                   |
+| 1:30pm-3:00pm       | Palladio                                                                                                                    |
+| **3:00pm-3:30pm**   | **Break**                                                                                                                   |
+| 3:30pm-4:30pm       | Rawson & Muñoz 2019 discussion                                                                                              |
+| 5:15pm-6:45pm       | Keynote: "Digital Humanities, 1887/2087" Whitney Trettien (Van Pelt Library, 6th Floor, Class of 1978 Pavilion)             |
 
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
@@ -68,15 +68,15 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 ### Schedule
 
-| Time                                     | Activity                                                                                            |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 9:30am-10:45am                           | [Relational Data Design Intro and discussing Merry 2015)](https://miro.com/app/board/o9J_lBYeuh4=/) |
-| **10:45am-10:00am**                      | **Break**                                                                                           |
-| 11:00-12:00pm       Data design exercise |                                                                                                     |
-| **12:00pm-1:30pm**                       | **Lunch**                                                                                           |
-| 1:30pm-3:00pm                            | Intro to SQL  (selecting; ordering; filtering; counting)                                            |  |
-| **3:00-3:30**                            | **Break**                                                                                           |
-| 3:30pm-5:00pm                            | More SQL        (creating schemas; joins)                                                           |
+| Time                | Activity                                                 |
+| ------------------- | -------------------------------------------------------- |
+| 9:30am-10:45am      | Relational Data Design Intro and discussing Merry 2015   |
+| **10:45am-10:00am** | **Break**                                                |
+| 11:00-12:00pm       | Data design exercise                                     |
+| **12:00pm-1:30pm**  | **Lunch**                                                |
+| 1:30pm-3:00pm       | Intro to SQL  (selecting; ordering; filtering; counting) |
+| **3:00-3:30**       | **Break**                                                |
+| 3:30pm-5:00pm       | More SQL        (creating schemas; joins)                |
 
 
 
@@ -90,15 +90,15 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 ### Schedule
 
-| Time                | Activity                                                           |
-| ------------------- | ------------------------------------------------------------------ |
-| 9:00-10:00am        | [Posner 2015 discussion](https://miro.com/app/board/o9J_lCzRiLs=/) |
-| **10:00am-10:15am** | **Break**                                                          |
-| 10:15am-12:00pm     | Identifying data messes                                            |
-| **12:00pm-1:30pm**  | **Lunch**                                                          |
-| 1:30pm-3:00pm       | OpenRefine                                                         |
-| **3:00pm-3:30pm**   | **Break**                                                          |
-| 3:30pm-3:30pm       | OpenRefine continued                                               |
+| Time                | Activity                                                                     |
+| ------------------- | ---------------------------------------------------------------------------- |
+| 9:00-10:00am        | Posner 2015 discussion                                                       |
+| **10:00am-10:15am** | **Break**                                                                    |
+| 10:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %}) |
+| **12:00pm-1:30pm**  | **Lunch**                                                                    |
+| 1:30pm-3:00pm       | OpenRefine                                                                   |
+| **3:00pm-3:30pm**   | **Break**                                                                    |
+| 3:30pm-3:30pm       | OpenRefine continued                                                         |
 
 
 ## Thursday, June 16
@@ -109,11 +109,11 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 
 ### Schedule
 
-| Time                | Activity                                                                       |
-| ------------------- | ------------------------------------------------------------------------------ |
-| 9:30am-10:15am      | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/) |
-| **10:15am-10:30am** | **Break**                                                                      |
-| 10:30am-12:00pm     | [Data documentation & preservation](https://miro.com/app/board/o9J_l-uM204=/)  |
-| **12:00pm-1:30pm**  | **Lunch**                                                                      |
-| 1:30pm-3:00pm       | Open session                                                                   |
-| 3:15-5:00pm         | Dream Lab Wrap-up Session                                                      |
+| Time                | Activity                                                                                                 |
+| ------------------- | -------------------------------------------------------------------------------------------------------- |
+| 9:30am-10:15am      | Langmead & Newbury 2020 discussion                                                                       |
+| **10:15am-10:30am** | **Break**                                                                                                |
+| 10:30am-12:00pm     | [Data documentation & preservation](https://miro.com/app/board/uXjVOvBNywI=/?share_link_id=851944721737) |
+| **12:00pm-1:30pm**  | **Lunch**                                                                                                |
+| 1:30pm-3:00pm       | Open session                                                                                             |
+| 3:15-5:00pm         | Dream Lab Wrap-up Session                                                                                |

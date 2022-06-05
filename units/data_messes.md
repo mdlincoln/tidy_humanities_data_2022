@@ -1,11 +1,11 @@
 ---
 title: Identifying Data Messes
-date: 2022-06-16
+date: 2022-06-15
 description: |
   How to triage your data for tidying
 ---
 
-## [Miro whiteboard on Data Messes](https://miro.com/app/board/o9J_lC-HL_A=/)
+## [Miro whiteboard on Data Messes](https://miro.com/app/board/uXjVOvBVa38=/?share_link_id=261827845691)
 
 ## Column validity errors
 
