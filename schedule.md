@@ -15,8 +15,6 @@ weight: 0
 3. Please [follow the instructions to install OpenRefine](https://docs.openrefine.org/manual/installing) on your own computer.
 4. We have a relatively short reading for each day of the course - as with all classes, it'll be most helpful for you to do the reading prior to our discussion!
 
-[consults]: https://docs.google.com/document/d/11WDDZrcIRx7XiGb38xVobW5JQwL57G8BRVrKcROi1KY/edit
-
 ## Technology
 
 You'll need to bring your own computer - Windows, Mac, Linux are all fine.
@@ -27,7 +25,7 @@ However, Palladio and OpenRefine are not designed to work on a tablet. I strongl
 
 ## What else do you want to talk about?
 
-I've left flex time on Thursday to talk through issues or questions that aren't covered in the other modules. At any time Monday through Wednesday, [use the Open Questions Board](https://miro.com/app/board/o9J_lCzSRN8=/) to drop notes about concepts or questions you'd like to learn more about, and then based on community voting we'll hold some informal discussions or tutorials on Thursday.
+I've left flex time on Thursday to talk through issues or questions that aren't covered in the other modules. At any time Monday through Wednesday, [use the Open Questions Board](https://miro.com/app/board/uXjVOtzz1yY=/?share_link_id=923956999094) to drop notes about concepts or questions you'd like to learn more about, and then based on community voting we'll hold some informal discussions or tutorials on Thursday.
 
 ## Software Suggestions
 
@@ -44,6 +42,10 @@ I've left flex time on Thursday to talk through issues or questions that aren't 
 Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein, 279–92. University of Minnesota Press, 2019. DOI: [10.5749/j.ctvg251hk.26](https://doi.org/10.5749/j.ctvg251hk.26).
 
 ### Schedule
+
+All Tidy Data classes take place in **Williams 616**
+
+![UPenn campus mini map](/assets/img/penn-map.png)
 
 | Time                | Activity                                                                                                                    |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -64,15 +66,15 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Reading
 
-Merry, Mark. *Designing Databases for Historical Research*. London: Institute of Historical Research, University of London, 2015. <http://port.sas.ac.uk/mod/book/view.php?id=75>. (Section C1-C4, Section D & E)
+Merry, Mark. *Designing Databases for Historical Research*. London: Institute of Historical Research, University of London, 2015. <http://port.sas.ac.uk/mod/book/view.php?id=75>. (Sections C, D & E)
 
 ### Schedule
 
 | Time                | Activity                                                 |
 | ------------------- | -------------------------------------------------------- |
-| 9:30am-10:45am      | Relational Data Design Intro and discussing Merry 2015   |
-| **10:45am-10:00am** | **Break**                                                |
-| 11:00-12:00pm       | Data design exercise                                     |
+| 9:30am-10:30am      | Relational Data Design Intro and discussing Merry 2015   |
+| **10:30am-10:45am** | **Break**                                                |
+| 10:45am-12:00pm       | Data design exercise                                     |
 | **12:00pm-1:30pm**  | **Lunch**                                                |
 | 1:30pm-3:00pm       | Intro to SQL  (selecting; ordering; filtering; counting) |
 | **3:00-3:30**       | **Break**                                                |
@@ -92,13 +94,13 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 | Time                | Activity                                                                     |
 | ------------------- | ---------------------------------------------------------------------------- |
-| 9:00-10:00am        | Posner 2015 discussion                                                       |
-| **10:00am-10:15am** | **Break**                                                                    |
-| 10:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %}) |
+| 9:30-10:30am        | Posner 2015 discussion                                                       |
+| **10:30am-10:45am** | **Break**                                                                    |
+| 10:45am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %}) |
 | **12:00pm-1:30pm**  | **Lunch**                                                                    |
 | 1:30pm-3:00pm       | OpenRefine                                                                   |
 | **3:00pm-3:30pm**   | **Break**                                                                    |
-| 3:30pm-3:30pm       | OpenRefine continued                                                         |
+| 3:30pm-5:00pm       | OpenRefine continued                                                         |
 
 
 ## Thursday, June 16
