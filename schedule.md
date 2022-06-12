@@ -34,6 +34,11 @@ I've left flex time on Thursday to talk through issues or questions that aren't 
 
 ## [ALL MIRO BOARDS LINK](https://miro.com/welcome/a2h1ZnF3QWFVVVpIc3FkS1NhR1VhU3Y1WTV2RldnOHBiUWg1ajVvRURuMnRhdnNoaEhMNTBuSGdQNzVJSEVHR3wzMDc0NDU3MzUxMzY0Mzc3Mjgw?share_link_id=967785455229)
 
+## Location
+
+All Tidy Data classes take place in **Williams 616**
+
+![UPenn campus mini map]({{ site.baseurl }}/assets/img/penn-map.png)
 
 ## Monday, June 13
 
@@ -42,10 +47,6 @@ I've left flex time on Thursday to talk through issues or questions that aren't 
 Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein, 279–92. University of Minnesota Press, 2019. DOI: [10.5749/j.ctvg251hk.26](https://doi.org/10.5749/j.ctvg251hk.26).
 
 ### Schedule
-
-All Tidy Data classes take place in **Williams 616**
-
-![UPenn campus mini map](/assets/img/penn-map.png)
 
 | Time                | Activity                                                                                                                    |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
