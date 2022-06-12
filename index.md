@@ -3,7 +3,7 @@ layout: home
 title: Tidy Data for Humanists - 2022
 ---
 
-### A University of Pennsylvania Dream Lab course originally offered online June 14-17 2022.
+### A University of Pennsylvania Dream Lab course June 13-16 2022.
 
 **Instructor: [Matthew Lincoln](https://matthewlincoln.net)**
 

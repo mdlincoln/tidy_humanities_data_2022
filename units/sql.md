@@ -15,6 +15,10 @@ Likewise if you query data in programming languages like Python's `pandas` or R'
 
 A wide nubmer of programs - desktop GUIs, command line, ad browser-based, can interact with SQLite files.
 
+This tutorial will focus first on using sqlite for data quering and analysis, and only secondarily on using it for data entry and editing.
+We will not be going over key database concepts such as indices and transactions.
+These are very important features, but because they relate more towards programming database-backed applications and issues of performance optimization, they are out of scope for this introductory lesson.
+
 ## Quick references
 
 [SQL cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
@@ -27,7 +31,7 @@ Navigate to <https://sqliteonline.com>. This website uses an implementation of S
 
 Download the lesson data to your computer: [normalized_knoedler.sqlite3](/assets/data/normalized_knoedler.sqlite3)
 
-In the sqliteonline menubar, select File -> Open DB, and select the normalized_knoedler.sqlite3 file you just downloaded.
+In the sqliteonline menubar, select File -> Open DB, and select the `normalized_knoedler.sqlite3` file you just downloaded. (N.B. sqlite files have a bunch of possible file extensions, but you'll often see `.db`, `.sqlite`, and `.sqlite3`, the latter noting that the file was made with the most recent major version of SQLite available from 2004)
 
 This file contains the exact same information as we used in the Palladio lesson, but arranged according to a different database schema:
 
@@ -51,7 +55,7 @@ Together, we will walk through:
    2. String concatenation with `||`
    3. `CASE WHEN`
    4. `COALESCE`
-   5. Dealing with dates - `strftime()` and `julianday()`
+   5. Dealing with dates - `date()` and `julianday()`
 6. Wildcard searching with `LIKE/ILIKE`
 7. `UNION` and `INTERSECT` queries
 8. Aggregation with `GROUP BY`
@@ -69,8 +73,13 @@ Together, we will walk through:
    3. `UNIQUE`
    4. `NOT NULL`
    5. `DEFAULT`
-3. `FOREIGN KEY` (run `PRAGMA foreign_keys = ON;` first!)
-4. `CHECK` constraints on columns and tables
+3. `INSERT` data with `VALUES`
+5. `FOREIGN KEY` (run `PRAGMA foreign_keys = ON;` first!)
+6. `CHECK` constraints on columns and tables
    1. Checking for valid dates with `CHECK (datecol IS date(datecol))`
-5. Compound `UNIQUE`
+7. Compound `UNIQUE`
+8. Running bulk `UPDATE`
 
+## Compound queries
+1. Storing queries with `VIEW`s
+2. Common Table Expressions (`WITH inter_tbl AS (SELECT ...) SELECT ... FROM inter_tbl...`)

@@ -55,7 +55,7 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 | **10:45am-11:00am** | **Break**                                                                                                                   |
 | 11:00am-12:00pm     | [Data types]({{ site.baseurl }}{% link units/data_types.md %}) (text, numbers, dates, categories, missing & uncertain info) |
 | **12:00pm-1:30pm**  | **Lunch**                                                                                                                   |
-| 1:30pm-3:00pm       | Palladio                                                                                                                    |
+| 1:30pm-3:00pm       | [Palladio]({{ site.baseurl }}{% link units/palladio.md %})                                                                                                                    |
 | **3:00pm-3:30pm**   | **Break**                                                                                                                   |
 | 3:30pm-4:30pm       | Rawson & Muñoz 2019 discussion                                                                                              |
 | 5:15pm-6:45pm       | Keynote: "Digital Humanities, 1887/2087" Whitney Trettien (Van Pelt Library, 6th Floor, Class of 1978 Pavilion)             |
@@ -75,11 +75,11 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 | ------------------- | -------------------------------------------------------- |
 | 9:30am-10:30am      | Relational Data Design Intro and discussing Merry 2015   |
 | **10:30am-10:45am** | **Break**                                                |
-| 10:45am-12:00pm       | Data design exercise                                     |
+| 10:45am-12:00pm       | [Data design exercise]({{ site.baseurl }}{% link units/data_design.md %})                                     |
 | **12:00pm-1:30pm**  | **Lunch**                                                |
-| 1:30pm-3:00pm       | Intro to SQL  (selecting; ordering; filtering; counting) |
+| 1:30pm-3:00pm       | [Intro to SQL (selecting; ordering; filtering; counting)]({{ site.baseurl }}{% link units/sql.md %}) |
 | **3:00-3:30**       | **Break**                                                |
-| 3:30pm-5:00pm       | More SQL        (creating schemas; joins)                |
+| 3:30pm-5:00pm       | [More SQL (creating schemas; joins)]({{ site.baseurl }}{% link units/sql.md %})                |
 
 
 
@@ -99,7 +99,7 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 | **10:30am-10:45am** | **Break**                                                                    |
 | 10:45am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %}) |
 | **12:00pm-1:30pm**  | **Lunch**                                                                    |
-| 1:30pm-3:00pm       | OpenRefine                                                                   |
+| 1:30pm-3:00pm       | [OpenRefine]({{ site.baseurl }}{% link units/openrefine.md %})                                                                   |
 | **3:00pm-3:30pm**   | **Break**                                                                    |
 | 3:30pm-5:00pm       | OpenRefine continued                                                         |
 

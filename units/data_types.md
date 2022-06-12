@@ -74,7 +74,7 @@ Think very carefully before you endeavor to encode uncertainty into your data. L
 
 ## Dates
 
-- [LEARN AND USE **EDTF** WHENEVER POSSIBLE](https://miro.com/app/board/o9J_l_LUDX4=/) It handles many needs in a way that computers can read:
+- [LEARN AND USE **EDTF** WHENEVER POSSIBLE](https://miro.com/app/board/uXjVOvBNy9E=/?share_link_id=855030437487) It handles many needs in a way that computers can read:
   - dates with varying precision (`1970`, `1991-01`, `2022-04-06`)
   - dates that are approximate (`1970~`) or uncertain (`1970?`)
   - date ranges (`1980/2010`)

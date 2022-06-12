@@ -1,6 +1,6 @@
 ---
 title: Relational Data Design Exercise
-date: 2022-06-15
+date: 2022-06-14
 description: |
   Learning how to design relational data with interlinked tables
 ---
@@ -16,7 +16,7 @@ Working as a group or solo, first select potential goals. Some possibilities inc
 3. Trace connections between artists made by the catalog authors when, in describing the work of one artist, they mention the name of another.
 4. Look for connections between previous owners of an artwork, which are sometimes listed for the more prestigious sale lots. Can we list out which collectors sought out which artists? Can we chart connections between previous owners of the same artwork?
 
-[Go to the Miro Relational Data Diagramming whiteboard](https://miro.com/app/board/o9J_lCqAXCs=/)
+[Go to the Miro Relational Data Diagramming whiteboard](https://miro.com/app/board/uXjVOvBWDCQ=/?share_link_id=644332905093)
 
 With your group, use the "mind map" tool in Miro to build out a data design that represents the sales of artworks in this auction catalog in a way that could help you answer your selected question. (you may need to look in the `...` menu to find it - you can drag it to your toolbar.)
 

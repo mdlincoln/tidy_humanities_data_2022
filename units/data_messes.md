@@ -1,6 +1,6 @@
 ---
 title: Identifying Data Messes
-date: 2022-06-15
+date: 2022-06-16
 description: |
   How to triage your data for tidying
 ---
