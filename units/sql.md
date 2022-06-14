@@ -83,3 +83,9 @@ Together, we will walk through:
 ## Compound queries
 1. Storing queries with `VIEW`s
 2. Common Table Expressions (`WITH inter_tbl AS (SELECT ...) SELECT ... FROM inter_tbl...`)
+
+## More software
+
+Create tables and then import from CSVs:
+
+https://sqlitebrowser.org/
