@@ -21,10 +21,10 @@ These are very important features, but because they relate more towards programm
 
 ## Quick references
 
-[SQL cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
-[SQL core functions](https://sqlite.org/lang_corefunc.html) - used inside `SELECT` statements to modify the data on the fly, such as modifying strings.
-[SQLite aggregation functions](https://www.sqlite.org/lang_aggfunc.html) - used with `SELECT ... GROUP BY` statements to aggregate multiple values into one based on grouping.
-[SQLite date and time functions](https://www.sqlite.org/lang_datefunc.html)
+- [SQL cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [SQL core functions](https://sqlite.org/lang_corefunc.html) - used inside `SELECT` statements to modify the data on the fly, such as modifying strings.
+- [SQLite aggregation functions](https://www.sqlite.org/lang_aggfunc.html) - used with `SELECT ... GROUP BY` statements to aggregate multiple values into one based on grouping.
+- [SQLite date and time functions](https://www.sqlite.org/lang_datefunc.html)
 ## Getting started
 
 Navigate to <https://sqliteonline.com>. This website uses an implementation of SQLite that runs entirely in your internet browser (like Palladio), so your data does not leave your computer. It also provides a query editor with affordances like autocompletion and formatting, and a query result dispay that provides a nicely-formatted table.
