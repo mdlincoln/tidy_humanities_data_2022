@@ -29,7 +29,7 @@ These are very important features, but because they relate more towards programm
 
 Navigate to <https://sqliteonline.com>. This website uses an implementation of SQLite that runs entirely in your internet browser (like Palladio), so your data does not leave your computer. It also provides a query editor with affordances like autocompletion and formatting, and a query result dispay that provides a nicely-formatted table.
 
-Download the lesson data to your computer: [normalized_knoedler.sqlite3](/assets/data/normalized_knoedler.sqlite3)
+Download the lesson data to your computer: [normalized_knoedler.sqlite3]({{ site.baseurl}}assets/data/normalized_knoedler.sqlite3)
 
 In the sqliteonline menubar, select File -> Open DB, and select the `normalized_knoedler.sqlite3` file you just downloaded. (N.B. sqlite files have a bunch of possible file extensions, but you'll often see `.db`, `.sqlite`, and `.sqlite3`, the latter noting that the file was made with the most recent major version of SQLite available from 2004)
 
