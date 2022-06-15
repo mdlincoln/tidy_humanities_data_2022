@@ -5,6 +5,12 @@ description: |
   Working through the Programming Historian's OpenRefine tutorial
 ---
 
+## Practice data
+
+[only_artists.csv]({{ site.basurl }}/assets/data/only_artists.csv)
+
+
+
 ## [OpenRefine Tutorial](https://doi.org/10.46430/phen0023)
 
 Tips on following the tutorial:
