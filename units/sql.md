@@ -56,7 +56,7 @@ Together, we will walk through:
    3. `CASE WHEN`
    4. `COALESCE`
    5. Dealing with dates - `date()` and `julianday()`
-6. Wildcard searching with `LIKE/ILIKE`
+6. Wildcard searching with `LIKE`
 7. `UNION` and `INTERSECT` queries
 8. Aggregation with `GROUP BY`
    1. `COUNT`
@@ -88,4 +88,4 @@ Together, we will walk through:
 
 Create tables and then import from CSVs:
 
-https://sqlitebrowser.org/
+<https://sqlitebrowser.org/>
