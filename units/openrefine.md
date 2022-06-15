@@ -7,7 +7,7 @@ description: |
 
 ## Practice data
 
-[only_artists.csv]({{ site.basurl }}/assets/data/only_artists.csv)
+[only_artists.csv]({{ site.baseurl }}/assets/data/only_artists.csv)
 
 
 
