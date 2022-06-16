@@ -119,4 +119,4 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 | 10:30am-12:00pm     | [Data documentation & preservation](https://miro.com/app/board/uXjVOvBNywI=/?share_link_id=851944721737) |
 | **12:00pm-1:30pm**  | **Lunch**                                                                                                |
 | 1:30pm-3:00pm       | Open session                                                                                             |
-| 3:15-5:00pm         | Dream Lab Wrap-up Session                                                                                |
+| 3:30-5:00pm         | Dream Lab Wrap-up Session                                                                                |
